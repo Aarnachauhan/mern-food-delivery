@@ -1,4 +1,4 @@
-﻿# mern food delivery
+﻿# Food delivery App
 
 # 📁 Project Structure
 
@@ -155,6 +155,7 @@ node server.js
 
 Aarna Chauhan
 Computer Science Engineering, NIT Patna
+
 
 
 
